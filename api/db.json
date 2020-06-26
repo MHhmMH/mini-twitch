@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "amazon ",
+      "description": "I love amazon ",
+      "id": 2
+    },
+    {
+      "title": "I love minghaoh",
+      "description": "this is made by minghaoh",
+      "userId": "106982156611782130804",
+      "id": 3
+    },
+    {
+      "title": "I love minghaoh",
+      "description": "this is made by minghaoh",
+      "userId": "106982156611782130804",
+      "id": 4
+    }
+  ]
+}
