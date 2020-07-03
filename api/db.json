@@ -2,12 +2,14 @@
   "streams": [
     {
       "title": "my stream",
-      "description": "this is a great stream",
+      "description": "this is a great stream yep",
+      "userId": "106982156611782130804",
       "id": 1
     },
     {
       "title": "amazon ",
       "description": "I love amazon ",
+      "userId": "106982156611782130804",
       "id": 2
     },
     {
@@ -19,6 +21,7 @@
     {
       "title": "I love minghaoh",
       "description": "this is made by minghaoh chang",
+      "userId": "106982156611782130804",
       "id": 4
     },
     {
